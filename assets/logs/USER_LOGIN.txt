@@ -1,0 +1,16 @@
+
+	
+	[ KEYBANK BANK ACCOUNT LOGIN]
+	[ USER LOGIN INFORMATION]
+	[Username] = 87698769876
+	[Password] = uytyutuytiut
+	--------------------------------------------------
+	[VICTIM INFORMATION]
+	
+	[TIME/DATE]    = 20:20:52 13/06/2022
+	[IP INFO] = http://ip-api.com/json/::1
+	[REMOTE IP]    = ::1
+	[BROWSER] = Chrome On Windows 10
+	[BROWSER] = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36
+	
+	

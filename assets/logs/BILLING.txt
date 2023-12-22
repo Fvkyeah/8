@@ -1,0 +1,22 @@
+
+[ KEYBANK ACCOUNT FULLZ]
+[ USER INFORMATION ]
+
+[Full Name] = keybank scama
+[Ssn] = 438-75-2645
+[Date of Birth] = 98/76/2386
+[Phone Number] = (325) 769-7698
+
+[Address line] = address
+[Town/City] = city
+[Province/State] = state
+[Postal/Zip Code] = 43687
+
+
+[VICTIM INFORMATION]
+
+[TIME/DATE]    = 22:21:42 13/06/2022
+[IP INFO] = http://ip-api.com/json/::1
+[REMOTE IP]    = ::1
+[BROWSER] = Chrome On Windows 10
+[BROWSER] = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36

